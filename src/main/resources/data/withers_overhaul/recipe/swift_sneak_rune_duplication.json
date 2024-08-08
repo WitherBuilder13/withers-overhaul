@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_swift_sneak"
+    },
+    {
+      "item": "withers_overhaul:scroll_swift_sneak"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_swift_sneak",
+    "count": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "withers_overhaul:gabbro"
+    }
+  },
+  "result": {
+    "id": "withers_overhaul:polished_gabbro",
+    "count": 4
+  }
+}

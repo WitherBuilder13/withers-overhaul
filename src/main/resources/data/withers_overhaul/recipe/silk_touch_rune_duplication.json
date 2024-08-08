@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_silk_touch"
+    },
+    {
+      "item": "withers_overhaul:scroll_silk_touch"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_silk_touch",
+    "count": 2
+  }
+}

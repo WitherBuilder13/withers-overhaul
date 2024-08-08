@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_soul_speed"
+    },
+    {
+      "item": "withers_overhaul:scroll_soul_speed"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_soul_speed",
+    "count": 2
+  }
+}

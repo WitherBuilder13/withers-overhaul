@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_fire_aspect"
+    },
+    {
+      "item": "withers_overhaul:scroll_fire_aspect"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_fire_aspect",
+    "count": 2
+  }
+}

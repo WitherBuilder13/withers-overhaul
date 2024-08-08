@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_channeling"
+    },
+    {
+      "item": "withers_overhaul:scroll_channeling"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_channeling",
+    "count": 2
+  }
+}

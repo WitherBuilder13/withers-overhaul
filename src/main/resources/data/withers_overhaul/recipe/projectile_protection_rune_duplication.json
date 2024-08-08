@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_projectile_protection"
+    },
+    {
+      "item": "withers_overhaul:scroll_projectile_protection"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_projectile_protection",
+    "count": 2
+  }
+}

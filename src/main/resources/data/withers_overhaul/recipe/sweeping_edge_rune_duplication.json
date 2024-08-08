@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_sweeping_edge"
+    },
+    {
+      "item": "withers_overhaul:scroll_sweeping_edge"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_sweeping_edge",
+    "count": 2
+  }
+}

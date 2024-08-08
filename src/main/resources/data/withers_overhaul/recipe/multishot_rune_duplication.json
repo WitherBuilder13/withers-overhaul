@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_multishot"
+    },
+    {
+      "item": "withers_overhaul:scroll_multishot"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_multishot",
+    "count": 2
+  }
+}

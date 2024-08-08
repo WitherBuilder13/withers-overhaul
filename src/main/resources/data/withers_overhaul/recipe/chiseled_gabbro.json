@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "withers_overhaul:gabbro_slab"
+    }
+  },
+  "result": {
+    "id": "withers_overhaul:chiseled_gabbro"
+  }
+}

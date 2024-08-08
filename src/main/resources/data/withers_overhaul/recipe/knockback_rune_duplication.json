@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_knockback"
+    },
+    {
+      "item": "withers_overhaul:scroll_knockback"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_knockback",
+    "count": 2
+  }
+}

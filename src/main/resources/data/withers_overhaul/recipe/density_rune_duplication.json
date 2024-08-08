@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_density"
+    },
+    {
+      "item": "withers_overhaul:scroll_density"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_density",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_unbreaking"
+    },
+    {
+      "item": "withers_overhaul:scroll_unbreaking"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_unbreaking",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_frost_walker"
+    },
+    {
+      "item": "withers_overhaul:scroll_frost_walker"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_frost_walker",
+    "count": 2
+  }
+}

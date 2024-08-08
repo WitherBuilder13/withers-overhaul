@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_riptide"
+    },
+    {
+      "item": "withers_overhaul:scroll_riptide"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_riptide",
+    "count": 2
+  }
+}

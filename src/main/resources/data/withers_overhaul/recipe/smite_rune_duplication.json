@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_smite"
+    },
+    {
+      "item": "withers_overhaul:scroll_smite"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_smite",
+    "count": 2
+  }
+}

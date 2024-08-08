@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_infinity"
+    },
+    {
+      "item": "withers_overhaul:scroll_infinity"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_infinity",
+    "count": 2
+  }
+}

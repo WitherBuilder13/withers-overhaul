@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "withers_overhaul:gabbro"
+  },
+  "result": {
+    "count": 1,
+    "id": "withers_overhaul:gabbro_brick_stairs"
+  }
+}

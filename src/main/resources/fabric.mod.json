@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "withers-overhaul",
+	"version": "${version}",
+	"name": "Wither's Overhaul",
+	"description": "Wither's Overhaul is a full overhaul of the game, from new biomes and blocks to new systems, and everything in between",
+	"authors": [
+		"WitherBuilder13"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/withers_overhaul/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-datagen": [
+			"me.withers_overhaul.OverhaulDataGen"
+		],
+		"main": [
+			"me.withers_overhaul.WithersOverhaul"
+		],
+		"client": [
+			"me.withers_overhaul.WithersOverhaulClient"
+		]
+	},
+	"mixins": [
+		"withers-overhaul.mixins.json",
+		{
+			"config": "withers-overhaul.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": ">=1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

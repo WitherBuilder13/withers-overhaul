@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_aqua_affinity"
+    },
+    {
+      "item": "withers_overhaul:scroll_aqua_affinity"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_aqua_affinity",
+    "count": 2
+  }
+}

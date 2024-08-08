@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "withers_overhaul:rune_piercing"
+    },
+    {
+      "item": "withers_overhaul:scroll_piercing"
+    }
+  ],
+  "result": {
+    "id": "withers_overhaul:rune_piercing",
+    "count": 2
+  }
+}
