@@ -25781,7 +25781,7 @@
         },
 
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               0.03,
@@ -25811,7 +25811,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -25841,7 +25841,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -25871,7 +25871,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -25901,7 +25901,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -25931,7 +25931,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -25961,7 +25961,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -25991,7 +25991,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26021,7 +26021,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26051,7 +26051,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26081,7 +26081,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26111,7 +26111,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26141,7 +26141,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26171,7 +26171,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26201,7 +26201,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26231,7 +26231,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26261,7 +26261,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26291,7 +26291,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -26321,7 +26321,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_woodlands",
+          "biome": "withers_overhaul:hazy_meadows",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -36620,7 +36620,7 @@
         },
 
         {
-          "biome": "withers_overhaul:frozen_caves",
+          "biome": "withers_overhaul:frostburn_caves",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -36650,7 +36650,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:frozen_caves",
+          "biome": "withers_overhaul:frostburn_caves",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -36680,7 +36680,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:pale_undergrowth",
+          "biome": "withers_overhaul:fungal_chasm",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -36710,7 +36710,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:pale_undergrowth",
+          "biome": "withers_overhaul:fungal_chasm",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -36800,7 +36800,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:echoing_depths",
+          "biome": "withers_overhaul:echoing_hollow",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -36830,7 +36830,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:echoing_depths",
+          "biome": "withers_overhaul:echoing_hollow",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -36920,7 +36920,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:phantom_abyss",
+          "biome": "withers_overhaul:phantom_hollow",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -36950,7 +36950,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:phantom_abyss",
+          "biome": "withers_overhaul:phantom_hollow",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -37130,7 +37130,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:glowing_caverns",
+          "biome": "withers_overhaul:glowing_grotto",
           "parameters": {
             "continentalness": [
               -1.2,
@@ -37160,7 +37160,7 @@
           }
         },
         {
-          "biome": "minecraft:deep_dark",
+          "biome": "withers_overhaul:subzero_abyss",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -37181,6 +37181,216 @@
             "offset": 0.0,
             "temperature": [
               -1.0,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "withers_overhaul:pale_undergrowth",
+          "parameters": {
+            "continentalness": [
+              -0.19,
+              1.0
+            ],
+            "depth": [
+              1.0,
+              2.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.375
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              -0.2
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "withers_overhaul:toxic_wastes",
+          "parameters": {
+            "continentalness": [
+              -0.19,
+              1.0
+            ],
+            "depth": [
+              1.0,
+              2.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.375
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.2,
+              0.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "minecraft:deep_dark",
+          "parameters": {
+            "continentalness": [
+              -0.19,
+              1.0
+            ],
+            "depth": [
+              1.0,
+              2.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.375
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.0,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "withers_overhaul:muted_tunnels",
+          "parameters": {
+            "continentalness": [
+              -0.19,
+              1.0
+            ],
+            "depth": [
+              1.0,
+              2.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.375
+            ],
+            "humidity": [
+              -1.0,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.45
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "withers_overhaul:foggy_abyss",
+          "parameters": {
+            "continentalness": [
+              -0.19,
+              1.0
+            ],
+            "depth": [
+              1.0,
+              2.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.375
+            ],
+            "humidity": [
+              0.1,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.45
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "withers_overhaul:fossilized_depths",
+          "parameters": {
+            "continentalness": [
+              -0.19,
+              1.0
+            ],
+            "depth": [
+              1.0,
+              2.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.375
+            ],
+            "humidity": [
+              -1.0,
+              -0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.45,
+              1.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "withers_overhaul:molten_undergrowth",
+          "parameters": {
+            "continentalness": [
+              -0.19,
+              1.0
+            ],
+            "depth": [
+              1.0,
+              2.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.375
+            ],
+            "humidity": [
+              -0.1,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.45,
               1.0
             ],
             "weirdness": [

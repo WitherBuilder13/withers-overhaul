@@ -1161,6 +1161,47 @@
                                 "then_run": {
                                   "type": "minecraft:block",
                                   "result_state": {
+                                    "Name": "minecraft:andesite"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "type": "minecraft:condition",
+                          "if_true": {
+                            "type": "minecraft:biome",
+                            "biome_is": [
+                              "withers_overhaul:alpine_peaks"
+                            ]
+                          },
+                          "then_run": {
+                            "type": "minecraft:sequence",
+                            "sequence": [
+                              {
+                                "type": "minecraft:condition",
+                                "if_true": {
+                                  "type": "minecraft:steep"
+                                },
+                                "then_run": {
+                                  "type": "minecraft:block",
+                                  "result_state": {
+                                    "Name": "minecraft:diorite"
+                                  }
+                                }
+                              },
+                              {
+                                "type": "minecraft:condition",
+                                "if_true": {
+                                  "type": "minecraft:water",
+                                  "add_stone_depth": false,
+                                  "offset": 0,
+                                  "surface_depth_multiplier": 0
+                                },
+                                "then_run": {
+                                  "type": "minecraft:block",
+                                  "result_state": {
                                     "Name": "minecraft:snow_block"
                                   }
                                 }
@@ -1965,7 +2006,22 @@
                           "then_run": {
                             "type": "minecraft:block",
                             "result_state": {
-                              "Name": "minecraft:stone"
+                              "Name": "minecraft:andesite"
+                            }
+                          }
+                        },
+                        {
+                          "type": "minecraft:condition",
+                          "if_true": {
+                            "type": "minecraft:biome",
+                            "biome_is": [
+                              "withers_overhaul:alpine_peaks"
+                            ]
+                          },
+                          "then_run": {
+                            "type": "minecraft:block",
+                            "result_state": {
+                              "Name": "minecraft:diorite"
                             }
                           }
                         },
@@ -2465,14 +2521,43 @@
                     "if_true": {
                       "type": "minecraft:biome",
                       "biome_is": [
-                        "minecraft:frozen_peaks",
+                        "minecraft:frozen_peaks"
+                      ]
+                    },
+                    "then_run": {
+                      "type": "minecraft:block",
+                      "result_state": {
+                        "Name": "withers_overhaul:marble"
+                      }
+                    }
+                  },
+                  {
+                    "type": "minecraft:condition",
+                    "if_true": {
+                      "type": "minecraft:biome",
+                      "biome_is": [
                         "minecraft:jagged_peaks"
                       ]
                     },
                     "then_run": {
                       "type": "minecraft:block",
                       "result_state": {
-                        "Name": "minecraft:stone"
+                        "Name": "minecraft:andesite"
+                      }
+                    }
+                  },
+                  {
+                    "type": "minecraft:condition",
+                    "if_true": {
+                      "type": "minecraft:biome",
+                      "biome_is": [
+                        "withers_overhaul:alpine_peaks"
+                      ]
+                    },
+                    "then_run": {
+                      "type": "minecraft:block",
+                      "result_state": {
+                        "Name": "minecraft:diorite"
                       }
                     }
                   },
@@ -2612,7 +2697,8 @@
             "minecraft:ice_spikes",
             "minecraft:snowy_beach",
             "minecraft:frozen_river",
-            "withers_overhaul:frozen_caves"
+            "withers_overhaul:frostburn_caves",
+            "withers_overhaul:subzero_abyss"
           ]
         },
         "then_run": {
@@ -2643,6 +2729,7 @@
             "withers_overhaul:bog",
             "withers_overhaul:charcoal_shore",
             "withers_overhaul:cold_river",
+            "withers_overhaul:fungal_chasm",
             "withers_overhaul:pale_undergrowth"
           ]
         },
@@ -2674,7 +2761,8 @@
             "minecraft:swamp",
             "minecraft:stony_shore",
             "withers_overhaul:cool_river",
-            "minecraft:dripstone_caves"
+            "minecraft:dripstone_caves",
+            "withers_overhaul:toxic_wastes"
           ]
         },
         "then_run": {
@@ -2700,7 +2788,8 @@
             "withers_overhaul:salt_marsh",
             "withers_overhaul:painted_beach",
             "withers_overhaul:salt_river",
-            "withers_overhaul:pastel_caverns"
+            "withers_overhaul:pastel_caverns",
+            "withers_overhaul:muted_tunnels"
           ]
         },
         "then_run": {
@@ -2717,14 +2806,15 @@
           "biome_is": [
             "withers_overhaul:ebony_woods",
             "withers_overhaul:ebony_thicket",
-            "withers_overhaul:foggy_woodlands",
+            "withers_overhaul:hazy_meadows",
             "withers_overhaul:cloud_forest",
             "withers_overhaul:twisted_thicket",
             "withers_overhaul:cloudy_peaks",
             "withers_overhaul:cypress_swamp",
             "withers_overhaul:misty_shore",
             "withers_overhaul:steamy_river",
-            "withers_overhaul:phantom_abyss"
+            "withers_overhaul:phantom_hollow",
+            "withers_overhaul:foggy_abyss"
           ]
         },
         "then_run": {
@@ -2748,7 +2838,8 @@
             "withers_overhaul:oasis",
             "withers_overhaul:sunbaked_shore",
             "withers_overhaul:sandy_river",
-            "withers_overhaul:buried_dunes"
+            "withers_overhaul:buried_dunes",
+            "withers_overhaul:fossilized_depths"
           ]
         },
         "then_run": {
@@ -2774,7 +2865,8 @@
             "minecraft:mangrove_swamp",
             "withers_overhaul:tropical_beach",
             "withers_overhaul:lush_river",
-            "minecraft:lush_caves"
+            "minecraft:lush_caves",
+            "withers_overhaul:molten_undergrowth"
           ]
         },
         "then_run": {
@@ -2801,8 +2893,7 @@
             "minecraft:deep_ocean",
             "minecraft:deep_lukewarm_ocean",
             "withers_overhaul:deep_warm_ocean",
-            "withers_overhaul:crystal_caves",
-            "withers_overhaul:fungal_chasm"
+            "withers_overhaul:crystal_caves"
           ]
         },
         "then_run": {
@@ -2823,7 +2914,7 @@
             "minecraft:mushroom_fields",
             "withers_overhaul:rainbow_fields",
             "withers_overhaul:lagoon",
-            "withers_overhaul:glowing_caverns"
+            "withers_overhaul:glowing_grotto"
           ]
         },
         "then_run": {
