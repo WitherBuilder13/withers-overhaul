@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "minecraft:calcite",
     "withers_overhaul:gabbro",
     "withers_overhaul:limestone",
     "withers_overhaul:marble",

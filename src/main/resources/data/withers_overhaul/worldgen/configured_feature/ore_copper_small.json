@@ -51,15 +51,6 @@
       },
       {
         "state": {
-          "Name": "withers_overhaul:calcite_copper_ore"
-        },
-        "target": {
-          "predicate_type": "minecraft:block_match",
-          "block": "minecraft:calcite"
-        }
-      },
-      {
-        "state": {
           "Name": "withers_overhaul:tuff_copper_ore"
         },
         "target": {

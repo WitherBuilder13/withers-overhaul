@@ -22,8 +22,8 @@
       "sound": "minecraft:music.overworld.sparse_jungle"
     },
     "sky_color": 7842047,
-    "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_color": 4445678,
+    "water_fog_color": 270131
   },
   "features": [
     [],
@@ -41,12 +41,6 @@
     [],
     [],
     [
-      "minecraft:ore_redstone",
-      "minecraft:ore_redstone_lower",
-      "minecraft:ore_diamond",
-      "minecraft:ore_diamond_medium",
-      "minecraft:ore_diamond_large",
-      "minecraft:ore_diamond_buried",
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
@@ -57,10 +51,17 @@
       "withers_overhaul:ore_iron_middle",
       "withers_overhaul:ore_iron_small",
       "withers_overhaul:ore_copper",
-      "withers_overhaul:ore_lapis_increased",
-      "withers_overhaul:ore_lapis_buried_increased",
+      "withers_overhaul:ore_lapis",
+      "withers_overhaul:ore_lapis_buried",
       "withers_overhaul:ore_gold",
-      "withers_overhaul:ore_gold_lower"
+      "withers_overhaul:ore_gold_lower",
+      "withers_overhaul:ore_redstone",
+      "withers_overhaul:ore_redstone_lower",
+      "withers_overhaul:ore_diamond",
+      "withers_overhaul:ore_diamond_medium",
+      "withers_overhaul:ore_diamond_large",
+      "withers_overhaul:ore_diamond_buried",
+      "withers_overhaul:ore_emerald"
     ],
     [],
     [

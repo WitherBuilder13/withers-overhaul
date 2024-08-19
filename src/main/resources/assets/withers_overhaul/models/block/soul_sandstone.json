@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "bottom": "withers_overhaul:block/soul_sandstone_bottom",
-    "side": "withers_overhaul:block/soul_sandstone",
-    "top": "withers_overhaul:block/soul_sandstone_top"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "withers_overhaul:block/soul_sandstone_top",
-    "side": "withers_overhaul:block/cut_soul_sandstone"
-  }
-}

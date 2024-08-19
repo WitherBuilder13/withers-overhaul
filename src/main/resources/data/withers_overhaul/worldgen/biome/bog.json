@@ -45,10 +45,6 @@
     [],
     [],
     [
-      "minecraft:ore_diamond",
-      "minecraft:ore_diamond_medium",
-      "minecraft:ore_diamond_large",
-      "minecraft:ore_diamond_buried",
       "minecraft:underwater_magma",
       "minecraft:disk_clay",
       "withers_overhaul:ore_coal_upper",
@@ -61,8 +57,12 @@
       "withers_overhaul:ore_lapis_buried",
       "withers_overhaul:ore_gold",
       "withers_overhaul:ore_gold_lower",
-      "withers_overhaul:ore_redstone_increased",
-      "withers_overhaul:ore_redstone_lower_increased"
+      "withers_overhaul:ore_redstone",
+      "withers_overhaul:ore_redstone_lower",
+      "withers_overhaul:ore_diamond",
+      "withers_overhaul:ore_diamond_medium",
+      "withers_overhaul:ore_diamond_large",
+      "withers_overhaul:ore_diamond_buried"
     ],
     [],
     [

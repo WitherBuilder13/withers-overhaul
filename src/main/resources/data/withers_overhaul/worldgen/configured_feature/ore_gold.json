@@ -51,15 +51,6 @@
       },
       {
         "state": {
-          "Name": "withers_overhaul:calcite_gold_ore"
-        },
-        "target": {
-          "predicate_type": "minecraft:block_match",
-          "block": "minecraft:calcite"
-        }
-      },
-      {
-        "state": {
           "Name": "withers_overhaul:tuff_gold_ore"
         },
         "target": {

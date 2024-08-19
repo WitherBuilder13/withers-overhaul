@@ -345,7 +345,7 @@
         1.0
       ],
       "humidity": [
-        -1.0,
+        -0.3,
         1.0
       ],
       "offset": 0.0,
@@ -355,7 +355,7 @@
       ],
       "weirdness": [
         -1.0,
-        -0.16
+        -0.05
       ]
     },
     {
@@ -369,7 +369,7 @@
         1.0
       ],
       "humidity": [
-        -1.0,
+        -0.3,
         1.0
       ],
       "offset": 0.0,
@@ -378,7 +378,7 @@
         1.0
       ],
       "weirdness": [
-        0.16,
+        0.05,
         1.0
       ]
     }
@@ -629,6 +629,111 @@
                     }
                   }
                 ]
+              }
+            },
+            {
+              "type": "minecraft:condition",
+              "if_true": {
+                "type": "minecraft:stone_depth",
+                "add_surface_depth": false,
+                "offset": 0,
+                "secondary_depth_range": 0,
+                "surface_type": "floor"
+              },
+              "then_run": {
+                "type": "minecraft:condition",
+                "if_true": {
+                  "type": "minecraft:water",
+                  "add_stone_depth": false,
+                  "offset": -1,
+                  "surface_depth_multiplier": 0
+                },
+                "then_run": {
+                  "type": "minecraft:sequence",
+                  "sequence": [
+                    {
+                      "type": "minecraft:sequence",
+                      "sequence": [
+                        {
+                          "type": "minecraft:condition",
+                          "if_true": {
+                            "type": "minecraft:biome",
+                            "biome_is": [
+                              "minecraft:eroded_badlands",
+                              "withers_overhaul:mojave_desert"
+                            ]
+                          },
+                          "then_run": {
+                            "type": "minecraft:sequence",
+                            "sequence": [
+                              {
+                                "type": "minecraft:condition",
+                                "if_true": {
+                                  "type": "minecraft:noise_threshold",
+                                  "min_threshold": 0.0,
+                                  "max_threshold": 1.0,
+                                  "noise": "withers_overhaul:coarse_dirt_desert"
+                                },
+                                "then_run": {
+                                  "type": "minecraft:sequence",
+                                  "sequence": [
+                                    {
+                                      "type": "minecraft:condition",
+                                      "if_true": {
+                                        "type": "minecraft:water",
+                                        "offset": 0.0,
+                                        "surface_depth_multiplier": 0.0,
+                                        "add_stone_depth": false
+                                      },
+                                      "then_run": {
+                                        "type": "minecraft:block",
+                                        "result_state": {
+                                          "Name": "minecraft:coarse_dirt"
+                                        }
+                                      }
+                                    },
+                                    {
+                                      "type": "minecraft:block",
+                                      "result_state": {
+                                        "Name": "minecraft:dirt"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "type": "minecraft:sequence",
+                                "sequence": [
+                                  {
+                                    "type": "minecraft:condition",
+                                    "if_true": {
+                                      "type": "minecraft:water",
+                                      "offset": 0.0,
+                                      "surface_depth_multiplier": 0.0,
+                                      "add_stone_depth": false
+                                    },
+                                    "then_run": {
+                                      "type": "minecraft:block",
+                                      "result_state": {
+                                        "Name": "minecraft:sand"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "type": "minecraft:block",
+                                    "result_state": {
+                                      "Name": "minecraft:sandstone"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
               }
             },
             {
@@ -1387,7 +1492,9 @@
                                 "biome_is": [
                                   "minecraft:warm_ocean",
                                   "minecraft:beach",
-                                  "minecraft:snowy_beach"
+                                  "minecraft:snowy_beach",
+                                  "withers_overhaul:tropical_beach",
+                                  "withers_overhaul:deep_warm_ocean"
                                 ]
                               },
                               "then_run": {
@@ -1493,7 +1600,7 @@
                                 "then_run": {
                                   "type": "minecraft:block",
                                   "result_state": {
-                                    "Name": "minecraft:stone"
+                                    "Name": "withers_overhaul:gneiss"
                                   }
                                 }
                               },
@@ -2194,7 +2301,9 @@
                                 "biome_is": [
                                   "minecraft:warm_ocean",
                                   "minecraft:beach",
-                                  "minecraft:snowy_beach"
+                                  "minecraft:snowy_beach",
+                                  "withers_overhaul:tropical_beach",
+                                  "withers_overhaul:deep_warm_ocean"
                                 ]
                               },
                               "then_run": {
@@ -2297,7 +2406,7 @@
                             "then_run": {
                               "type": "minecraft:block",
                               "result_state": {
-                                "Name": "minecraft:stone"
+                                "Name": "withers_overhaul:gneiss"
                               }
                             }
                           }
@@ -2456,7 +2565,9 @@
                       "biome_is": [
                         "minecraft:warm_ocean",
                         "minecraft:beach",
-                        "minecraft:snowy_beach"
+                        "minecraft:snowy_beach",
+                        "withers_overhaul:tropical_beach",
+                        "withers_overhaul:deep_warm_ocean"
                       ]
                     },
                     "then_run": {
@@ -2568,7 +2679,8 @@
                       "biome_is": [
                         "minecraft:warm_ocean",
                         "minecraft:lukewarm_ocean",
-                        "minecraft:deep_lukewarm_ocean"
+                        "minecraft:deep_lukewarm_ocean",
+                        "withers_overhaul:deep_warm_ocean"
                       ]
                     },
                     "then_run": {
@@ -2804,7 +2916,7 @@
         "if_true": {
           "type": "minecraft:biome",
           "biome_is": [
-            "withers_overhaul:ebony_woods",
+            "withers_overhaul:lavender_woods",
             "withers_overhaul:ebony_thicket",
             "withers_overhaul:hazy_meadows",
             "withers_overhaul:cloud_forest",
@@ -2814,7 +2926,7 @@
             "withers_overhaul:misty_shore",
             "withers_overhaul:steamy_river",
             "withers_overhaul:phantom_hollow",
-            "withers_overhaul:foggy_abyss"
+            "withers_overhaul:spectral_abyss"
           ]
         },
         "then_run": {

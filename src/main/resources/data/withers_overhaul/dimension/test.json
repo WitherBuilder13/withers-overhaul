@@ -9694,7 +9694,7 @@
         },
 
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -9724,7 +9724,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -9754,7 +9754,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -9784,7 +9784,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -9814,7 +9814,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -9844,7 +9844,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -9874,7 +9874,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -9904,7 +9904,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -9934,7 +9934,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -9964,7 +9964,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -9994,7 +9994,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -10024,7 +10024,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -10054,7 +10054,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -10084,7 +10084,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:ebony_woods",
+          "biome": "withers_overhaul:lavender_woods",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -37310,7 +37310,7 @@
           }
         },
         {
-          "biome": "withers_overhaul:foggy_abyss",
+          "biome": "withers_overhaul:spectral_abyss",
           "parameters": {
             "continentalness": [
               -0.19,
